@@ -3,3 +3,6 @@
 
 Git
 Sistema de versionamento de código que guarda os registros de versões como snapshots (fotos) do estado do projeto e também as hashes (referência/caminho) pra esses snapshots.
+
+GitHub
+Plataforma para hospedagem de projetos (que usam git)
